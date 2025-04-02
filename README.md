@@ -13,7 +13,7 @@ A simple personal finance tracking application built with Node.js, Express, Angu
 
 - Frontend: Angular  
 - Backend: Node.js (Express)  
-- Database: SQLite  
+- Database: MySQL
 
 ## Setup and Run
 
