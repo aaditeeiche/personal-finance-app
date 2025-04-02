@@ -1,0 +1,14 @@
+# Node Modules
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Environment Variables
+.env
+
+# Angular Build Files
+/dist/
+/out-tsc/
+/.angular/
+*.DS_Store
