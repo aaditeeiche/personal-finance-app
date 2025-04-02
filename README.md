@@ -6,7 +6,7 @@ A simple personal finance tracking application built with Node.js, Express, Angu
 
 - User Registration and Login  
 - Add Income and Expense Transactions  
-- View Financial Reports and Summaries  
+- Connect to Bank Account for Automatic Entries
 - Admin Panel to Manage Users and Transactions  
 
 ## Tech Stack
